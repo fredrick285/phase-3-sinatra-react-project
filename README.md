@@ -15,6 +15,7 @@ You can use this API in conjunction with my front-end project management app by 
 - Rack
 
 ## How To Use
+Open the main project directory Phase-3-sinatra-react-project.
 
 Install it and run:
 
