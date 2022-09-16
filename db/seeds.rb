@@ -3,32 +3,32 @@ puts "🌱 Seeding spices..."
 # Seed your database here
 Task.create([
   {
-    body: "Software development, modeling, simulation, testing, and quality assurance",
-    username: "Mayson"
+    body: "Laser physics",
+    username: "Anthony"
   },
   {
-    body: "Object-oriented design",
-    username: "Elsie"
+    body: "Computer Science fundamentals",
+    username: "Jinn"
   },
   {
-    body: "Analysis of user requirements, software, and code",
-    username: "Arnold"
+    body: "cleaning",
+    username: "Freddy"
   },
   {
-    body: "Completing systems risk and reliability analysis",
-    username: "Lynn"
+    body: "Effects of Dephasing in lambda systems",
+    username: "Orina"
   },
   {
-    body: "Object-oriented analysis",
-    username: "Will"
+    body: "People for the people",
+    username: "Elie"
   },
   {
     body: "Monitoring systems performance",
     username: "Lizzy"
   },
   {
-    body: "Perform maintenance and software integrations for existing systems",
-    username: "Larry"
+    body: "Love and life",
+    username: "Elvis"
   },
   {
     body: "Maintain compliance with industry standards",
@@ -39,16 +39,16 @@ Task.create([
     username: "Mark"
   },
   {
-    body: "Identify and assess new technologies prior to implementation",
-    username: "Ruthy"
+    body: "Sinatra Basics",
+    username: "June"
   },
   {
-    body: "we can do this! 💪",
-    username: "Team manager"
+    body: "Diy! 💪",
+    username: "Bro"
   },
   {
-    body: "You got this! 💪",
-    username: "Boss"
+    body: "Evening Race! 💪",
+    username: "Dunhill"
   }
 ])
 
