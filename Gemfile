@@ -53,8 +53,8 @@ group :test do
 end
 
 
-group :production do
-  gem 'pg', '~> 1.4', '>= 1.4.3'
-end
+# group :production do
+#   gem 'pg', '~> 1.4', '>= 1.4.3'
+# end
 
-gem 'sinatra-contrib', '~> 2.2', '>= 2.2.2',require: false
+# gem 'sinatra-contrib', '~> 2.2', '>= 2.2.2',require: false
